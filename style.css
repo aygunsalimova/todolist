@@ -1,0 +1,21 @@
+.copy {
+    font-size: 25px;
+    bottom: 2rem;
+    right: 45%;
+    position: absolute;
+
+}
+
+.copy a {
+    text-decoration: none;
+    color: #dc3545;
+}
+
+@media only screen and (max-width: 414px) {
+    .copy {
+        font-size: 20px;
+        bottom: 2rem;
+        right: 30%;
+
+    }
+}
